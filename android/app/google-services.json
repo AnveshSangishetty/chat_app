@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988781810414",
+    "project_id": "loginui-1936b",
+    "storage_bucket": "loginui-1936b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988781810414:android:754558a9c6bf0b0eb599ff",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988781810414-e9326ifj4iivj12kt86homamhv877dhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled3",
+            "certificate_hash": "7d0c964d20cd278f2c5283ef50437a7ed497db6e"
+          }
+        },
+        {
+          "client_id": "988781810414-el27pqra289t1lf98fs2c1hlm4ttfp3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzd8iR2cYW_4axzlGa_HY58vXEeppq-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988781810414-el27pqra289t1lf98fs2c1hlm4ttfp3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
