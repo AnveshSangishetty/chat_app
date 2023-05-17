@@ -1,15 +1,17 @@
-# untitled3
+# Chat application
 
-A new Flutter project.
+A full stack chat application developed using Flutter and Firebase.
+
+Features:
+
+1) Online status of friends
+2) Typing indicator, message read status, last seen time
+3) OTP authentication
+
+many more..
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
